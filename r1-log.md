@@ -21,3 +21,12 @@ Then moved on to more Pure CSS images. This time it was a bit challengeing but r
 **link to work** [Polaroid | Pure CSS](https://codepen.io/athoug/pen/KxMvGy)
 
 **link to blog post** [Making teh polaroid](https://athougcodesatnight.com/polaroid-pure-css-day-66/)
+
+### R1D3: August 29 2018
+Today can count as a reading marathon. I went over the MDN doc and read quite a few articles, and did the practice that was provided along the day. 
+
+I also explored CSS variables, and did my 180-day project based on it/ Basically thinking about things as components. This project centered around buttons and their colors to which variables were used. 
+
+**link to work** [CSS Variables | Button](https://athoug.xyz/day67/index.html)
+
+_toughts_ Honestly today I felt a tad overwhelmed. I kept thinking of where I am and the amount of articles, courses, and information I need to go over to build the projects in my head. It dawned on me how close i am to the starting point rather than the finish line. I was supposed to go over React but decided otherwise because I already passed the hour mark. And any more time will just cause me to burnout to which i do not want to happen. I hope this overwhelming feeling would stop at somepoint in the future. 
