@@ -29,4 +29,11 @@ I also explored CSS variables, and did my 180-day project based on it/ Basically
 
 **link to work** [CSS Variables | Button](https://athoug.xyz/day67/index.html)
 
-_toughts_ Honestly today I felt a tad overwhelmed. I kept thinking of where I am and the amount of articles, courses, and information I need to go over to build the projects in my head. It dawned on me how close i am to the starting point rather than the finish line. I was supposed to go over React but decided otherwise because I already passed the hour mark. And any more time will just cause me to burnout to which i do not want to happen. I hope this overwhelming feeling would stop at somepoint in the future. 
+**_toughts_** Honestly today I felt a tad overwhelmed. I kept thinking of where I am and the amount of articles, courses, and information I need to go over to build the projects in my head. It dawned on me how close i am to the starting point rather than the finish line. I was supposed to go over React but decided otherwise because I already passed the hour mark. And any more time will just cause me to burnout to which i do not want to happen. I hope this overwhelming feeling would stop at somepoint in the future. 
+
+### R1D4: August 30 2018
+It's all about CSS variables today. Worked on my 180 day project that changes themes night/day. The functionality works and all, but the layout and responsivness is still iffy. I need to work on those. 
+
+**link to work** [CSS Variables | Theme Repo](https://github.com/athoug/180-websites-project/tree/master/day68)
+
+**_toughts_** Today i felt a bit bumbed out because I couldn't manage to figure out the layout and spent hours debugining to no prevail. It's one of those moment of frustrations programmers run into when debugging. But hey I shouldn't forget that i managed to get it to work though right?  
