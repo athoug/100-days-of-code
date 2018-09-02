@@ -36,4 +36,14 @@ It's all about CSS variables today. Worked on my 180 day project that changes th
 
 **link to work** [CSS Variables | Theme Repo](https://github.com/athoug/180-websites-project/tree/master/day68)
 
-**_toughts_** Today i felt a bit bumbed out because I couldn't manage to figure out the layout and spent hours debugining to no prevail. It's one of those moment of frustrations programmers run into when debugging. But hey I shouldn't forget that i managed to get it to work though right?  
+**_toughts_** Today I felt a bit bumbed out because I couldn't manage to figure out the layout and spent hours debugining to no prevail. It's one of those moment of frustrations programmers run into when debugging. But hey I shouldn't forget that i managed to get it to work though right?  
+
+### R1D5: August 31 2018
+Started with an intro to React. Understood the basic elements of a react app, then moved on to continue working on the theme project. I managed to position them right! 
+
+**link to work** [CSS Variables | Theme](https://athoug.xyz/day68/index.html)
+
+**_toughts_** I realized, I am using way to many resources which causes me to feel overwhelmed. Decided to focuse on a couple of resources and slowly move up. 
+
+### R1D6: September 1 2018
+This was a react day. worked more on react regarding components and re-using them. I also got to know props, child elements, and states.
