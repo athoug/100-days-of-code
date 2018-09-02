@@ -47,3 +47,10 @@ Started with an intro to React. Understood the basic elements of a react app, th
 
 ### R1D6: September 1 2018
 This was a react day. worked more on react regarding components and re-using them. I also got to know props, child elements, and states.
+
+### R1D7: September 2 2018
+Today centered around CSS variables again. Used them on a project that dynamicly changes the color of a cube based on user input. This was part of the 180 day challenge where I did a pixel heart users can change it's percpective and colors
+
+**link to work** [Pixel Heart](https://athoug.xyz/day69/index.html)
+
+**_toughts_** This project reminded me of how much i enjoyed coding before and how fun the process what. Does this mean the fun is back now?
