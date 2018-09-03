@@ -54,3 +54,14 @@ Today centered around CSS variables again. Used them on a project that dynamicly
 **link to work** [Pixel Heart](https://athoug.xyz/day69/index.html)
 
 **_toughts_** This project reminded me of how much i enjoyed coding before and how fun the process what. Does this mean the fun is back now?
+
+### R1D8: September 3 2018
+It is all about React today. I managed to finish the course section about basic react syntax. I also did the assignment and with not a problem at all! I read through som e resources which is basically the react docs. I also followed a Medium article that sums up react. So pretty satisfied with how much I managed to consume and work on today
+
+**link to Repo** [Learning React](https://github.com/athoug/Learning-React)
+
+I also worked on some CSS today. I covered the `z-index` and `@media` for responsovness. I wanted to contribute to the 180 day challeneg so I did a pure CSS image of a pizza. it was fun. I also went over previouse projects to fix their responsivness.
+
+**link to work** [Pixel Heart](https://codepen.io/athoug/pen/JaENWe)
+
+**_toughts_** Today is a good day :)
