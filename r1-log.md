@@ -75,5 +75,5 @@ I also worked on some CSS today. I made a pure CSS imageof the sketch logo. It w
 
 **link to work** [Pixel Heart](https://codepen.io/athoug/pen/jvwWwe)
 
-**_toughts_** Today is a good day :)
+**_toughts_** Today is yet another good day ^.^
 
