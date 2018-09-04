@@ -65,3 +65,15 @@ I also worked on some CSS today. I covered the `z-index` and `@media` for respon
 **link to work** [Pixel Heart](https://codepen.io/athoug/pen/JaENWe)
 
 **_toughts_** Today is a good day :)
+
+### R1D9: September 4 2018
+Another React day. Spent today working on lists and conditionals. I won't lie I faced a lot of stumps during the assignment, but those stumps mad overcoming them that much more rewarding. I think i'm slowly getting the hand of things, or perhaps it's just my imagination anyways it's good. 
+
+**link to Repo** [Learning React](https://github.com/athoug/Learning-React)
+
+I also worked on some CSS today. I made a pure CSS imageof the sketch logo. It was nice practice.
+
+**link to work** [Pixel Heart](https://codepen.io/athoug/pen/jvwWwe)
+
+**_toughts_** Today is a good day :)
+
