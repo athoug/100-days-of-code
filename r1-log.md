@@ -73,7 +73,18 @@ Another React day. Spent today working on lists and conditionals. I won't lie I 
 
 I also worked on some CSS today. I made a pure CSS imageof the sketch logo. It was nice practice.
 
-**link to work** [Pixel Heart](https://codepen.io/athoug/pen/jvwWwe)
+**link to work** [Sketch Logo](https://codepen.io/athoug/pen/jvwWwe)
 
 **_toughts_** Today is yet another good day ^.^
+
+### R1D10: September 5 2018
+Since I've been focusing on React recently, I wanted to make sure that I've been grasphing the topic and not just following along the course, SO I focused todays 180-project on React. A simple app that states reasons to be happy and allows users to enter their own.
+
+**link to Repo** [Happiness Reasons](https://athoug.xyz/day70/index.html)
+
+I also worked on responsive design by using CSS `@media` to fix some issues with previous code.
+
+**link to work** [Pixel Heart](https://athoug.xyz/day69/index.html)
+
+**_toughts_** Today felt very productive. Not to mention I'm restarting my Web-dev bootcamp again!
 
