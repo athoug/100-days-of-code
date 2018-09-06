@@ -92,6 +92,7 @@ I also worked on responsive design by using CSS `@media` to fix some issues with
 Today is a CSS day. Not only that, we’re adding some animations baby! So here’s the gist, I want to make a pure CSS image of a rocket blasting off
 
 **link to Work** [Rocket Blast](https://athoug.xyz/day71/index.html)
+
 **link to Blog** [Making the Rocket](https://athougcodesatnight.com/rocket-blast-day-71/)
 
 I also worked went over the webdev bootcamp course and did the sections assignment.
