@@ -80,11 +80,22 @@ I also worked on some CSS today. I made a pure CSS imageof the sketch logo. It w
 ### R1D10: September 5 2018
 Since I've been focusing on React recently, I wanted to make sure that I've been grasphing the topic and not just following along the course, SO I focused todays 180-project on React. A simple app that states reasons to be happy and allows users to enter their own.
 
-**link to Repo** [Happiness Reasons](https://athoug.xyz/day70/index.html)
+**link to Work** [Happiness Reasons](https://athoug.xyz/day70/index.html)
 
 I also worked on responsive design by using CSS `@media` to fix some issues with previous code.
 
 **link to work** [Pixel Heart](https://athoug.xyz/day69/index.html)
 
 **_toughts_** Today felt very productive. Not to mention I'm restarting my Web-dev bootcamp again!
+
+### R1D11: September 6 2018
+Today is a CSS day. Not only that, we’re adding some animations baby! So here’s the gist, I want to make a pure CSS image of a rocket blasting off
+
+**link to Work** [Rocket Blast](https://athoug.xyz/day71/index.html)
+**link to Blog** [Making the Rocket](https://athougcodesatnight.com/rocket-blast-day-71/)
+
+I also worked went over the webdev bootcamp course and did the sections assignment.
+
+**_toughts_** To be honest, I was about to cop out from creating a rocket from scratch in CSS and just convert the sketch image to an svg and just animate that, but then that beats the point of practicing CSS so yeah I soldiered on and started drawing with CSS. [so proud that I did that] :)
+
 
