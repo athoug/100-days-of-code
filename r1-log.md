@@ -99,4 +99,7 @@ I also worked went over the webdev bootcamp course and did the sections assignme
 
 **_toughts_** To be honest, I was about to cop out from creating a rocket from scratch in CSS and just convert the sketch image to an svg and just animate that, but then that beats the point of practicing CSS so yeah I soldiered on and started drawing with CSS. [so proud that I did that] :)
 
+### R1D12: September 7 2018
+Today I worked on the [React Docs](https://reactjs.org/docs) tutorial.  
 
+**_toughts_** To be honest, today isn't a good day. I'm feeling overwhelmed, lost, and just all in all down...
