@@ -62,7 +62,7 @@ It is all about React today. I managed to finish the course section about basic 
 
 I also worked on some CSS today. I covered the `z-index` and `@media` for responsovness. I wanted to contribute to the 180 day challeneg so I did a pure CSS image of a pizza. it was fun. I also went over previouse projects to fix their responsivness.
 
-**link to work** [Pixel Heart](https://codepen.io/athoug/pen/JaENWe)
+**link to work** [Pizza](https://codepen.io/athoug/pen/JaENWe)
 
 **_toughts_** Today is a good day :)
 
