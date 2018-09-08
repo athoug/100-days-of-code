@@ -103,3 +103,12 @@ I also worked went over the webdev bootcamp course and did the sections assignme
 Today I worked on the [React Docs](https://reactjs.org/docs) tutorial.  
 
 **_toughts_** To be honest, today isn't a good day. I'm feeling overwhelmed, lost, and just all in all down...
+
+### R1D13: September 8 2018
+Today I worked on the [React Docs](https://reactjs.org/docs) tutorial again Just a bit more and I will be done from teh docs. I also read a article explaining react. 
+
+I also worked on some CSS today. I made a pure CSS image of the Nintendo switch console. It was nice practice.
+
+**link to work** [Nintendo Switch | Pure CSS](https://codepen.io/athoug/pen/wEPYBe)
+
+**_toughts_** An okay day.
