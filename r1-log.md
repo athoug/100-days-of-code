@@ -105,10 +105,19 @@ Today I worked on the [React Docs](https://reactjs.org/docs) tutorial.
 **_toughts_** To be honest, today isn't a good day. I'm feeling overwhelmed, lost, and just all in all down...
 
 ### R1D13: September 8 2018
-Today I worked on the [React Docs](https://reactjs.org/docs) tutorial again Just a bit more and I will be done from teh docs. I also read a article explaining react. 
+Today I worked on the [React Docs](https://reactjs.org/docs) tutorial again Just a bit more and I will be done from the docs. I also read a article explaining react. 
 
 I also worked on some CSS today. I made a pure CSS image of the Nintendo switch console. It was nice practice.
 
 **link to work** [Nintendo Switch | Pure CSS](https://codepen.io/athoug/pen/wEPYBe)
 
 **_toughts_** An okay day.
+
+### R1D14: September 9 2018
+Yet another docs reading day for React. completed more than half the sections [React Docs](https://reactjs.org/docs) tutorial again Just a bit more and I will be done from the docs. I also read a article explaining react. 
+
+I also wanted to do some CSS today, so I did something quick, a Triforce. 
+
+**link to work** [Triforce | Pure CSS](https://codepen.io/athoug/pen/mGpwYQ)
+
+**_toughts_** Realized I'm destracting myself from what's important with all these React resources. So finish this course and then move on to something else. okay Athoug. [you need someone to give a pep-talk and it's me your future self]
