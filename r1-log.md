@@ -121,3 +121,15 @@ I also wanted to do some CSS today, so I did something quick, a Triforce.
 **link to work** [Triforce | Pure CSS](https://codepen.io/athoug/pen/mGpwYQ)
 
 **_toughts_** Realized I'm destracting myself from what's important with all these React resources. So finish this course and then move on to something else. okay Athoug. [you need someone to give a pep-talk and it's me your future self]
+
+### R1D15: September 10 2018
+We went back into the React course. Covered styling components and got to know CSS models and some packages on styling.
+
+**link to Repo** [Learning React](https://github.com/athoug/Learning-React)
+
+Anotehr day to practice CSS. This time we want to do some animation givin that my time is limited I decided to work on navi, This was a fun project because I got to experament wih animation and figured out a way to flip css images. Alo some JS where navi starts saying her iconic line 'hey, listen!' 
+
+**link to work** [Navi | Pure CSS](https://codepen.io/athoug/pen/ZMrGmV)
+
+**_toughts_** Satisfied with the result of the css animation. There is room for improvment though. Will definatly work on improving it more with time.
+
