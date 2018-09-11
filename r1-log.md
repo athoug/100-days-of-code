@@ -133,3 +133,14 @@ Anotehr day to practice CSS. This time we want to do some animation givin that m
 
 **_toughts_** Satisfied with the result of the css animation. There is room for improvment though. Will definatly work on improving it more with time.
 
+### R1D16: September 11 2018
+Today was about debugging.I learned how to debug react act and got a bit deeper into the chrome dev tools
+
+**link to Repo** [Learning React](https://github.com/athoug/Learning-React)
+
+Yet anotehr day to practice CSS. I pushed it this time. Another Zelda theme though. I wanted to do the Master Sword the details killed me but I'm pretty pleased with the resut. I'm glad I locked in days for my 180-day project. I also went through the CSS section of the web-dev bootcamp  
+
+**link to work** [Master Sword | Pure CSS](https://codepen.io/athoug/pen/YOaPVv)
+
+**_toughts_** Despite the hectic schedual, I'm happy that I manged to login some coding time :)
+
