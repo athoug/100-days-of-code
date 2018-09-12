@@ -144,3 +144,11 @@ Yet anotehr day to practice CSS. I pushed it this time. Another Zelda theme thou
 
 **_toughts_** Despite the hectic schedual, I'm happy that I manged to login some coding time :)
 
+### R1D17: September 12 2018
+I started the daily CSS image challenge today. The category was bear cub. pretty nice. I pushed it to make it have a blink animation. Pretty pleased because it looked smother than I anticipated. this project will contribute to the 180-day project. I also went through the CSS section of the web-dev bootcamp and finished it.  
+
+**link to work** [Bear Cub | Daily CSS image Challenge](https://codepen.io/athoug/pen/OoZPPE)
+
+**_toughts_** I believe I'll get to login more time once ifinish this weeks obligations.
+
+
