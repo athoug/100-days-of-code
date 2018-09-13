@@ -151,4 +151,13 @@ I started the daily CSS image challenge today. The category was bear cub. pretty
 
 **_toughts_** I believe I'll get to login more time once ifinish this weeks obligations.
 
+### R1D18: September 13 2018
+DAY 2 of the daily CSS image challenge today. The category was Eelephant. So satisfied with the result because not onlu does it look nice, it's an original design! I also added some animation, similar to the lasr one 'blink' and another scale animation. this project will contribute to the 180-day project. I also went through the Intermediate CSS section of the web-dev bootcamp and finished it.  
 
+**link to work** [Elephant | Daily CSS image Challenge](https://codepen.io/athoug/pen/QVrYop)
+
+Also worked on some Raect today.I learned how to properly structure a React project and how to connect compnenet with container. As well as the diffrence between stateful and statless compnents
+
+**link to Repo** [Learning React](https://github.com/athoug/Learning-React)
+
+**_toughts_** A good day.
