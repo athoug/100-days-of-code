@@ -161,3 +161,10 @@ Also worked on some Raect today.I learned how to properly structure a React proj
 **link to Repo** [Learning React](https://github.com/athoug/Learning-React)
 
 **_toughts_** A good day.
+
+### R1D19: September 14 2018
+DAY 3 of the daily CSS image challenge today. The category was Beaver. I wanted to challenge myself and play with the perspective of the animal. I think it's okay. Just glad that i challenged myself and didn't choose the easy path.
+
+**link to work** [Beaver | Daily CSS image Challenge](https://codepen.io/athoug/pen/aaKMVX)
+
+**_toughts_** It was a meh day.
