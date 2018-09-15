@@ -152,7 +152,7 @@ I started the daily CSS image challenge today. The category was bear cub. pretty
 **_toughts_** I believe I'll get to login more time once ifinish this weeks obligations.
 
 ### R1D18: September 13 2018
-DAY 2 of the daily CSS image challenge today. The category was Eelephant. So satisfied with the result because not onlu does it look nice, it's an original design! I also added some animation, similar to the lasr one 'blink' and another scale animation. this project will contribute to the 180-day project. I also went through the Intermediate CSS section of the web-dev bootcamp and finished it.  
+DAY 2 of the daily CSS image challenge today. The category was Eelephant. So satisfied with the result because not only does it look nice, it's an original design! I also added some animation, similar to the lasr one 'blink' and another scale animation. this project will contribute to the 180-day project. I also went through the Intermediate CSS section of the web-dev bootcamp and finished it.  
 
 **link to work** [Elephant | Daily CSS image Challenge](https://codepen.io/athoug/pen/QVrYop)
 
@@ -168,3 +168,14 @@ DAY 3 of the daily CSS image challenge today. The category was Beaver. I wanted 
 **link to work** [Beaver | Daily CSS image Challenge](https://codepen.io/athoug/pen/aaKMVX)
 
 **_toughts_** It was a meh day.
+
+### R1D20: September 15 2018
+DAY 4 of the daily CSS image challenge today. The category was Tiger. Another original design. I hope by the end of this project I will get more comfortable when it comes to design. Also bonus this is contributiong to the 180 day project! We reached day 77! I also went through the Intermediate CSS section of the web-dev bootcamp and finished it.  
+
+**link to work** [Tiger | Daily CSS image Challenge](https://codepen.io/athoug/pen/YOjJjj)
+
+Also worked on some Raect today.I learned about component lifecycle and which method gets triggered in what order.
+
+**link to Repo** [Learning React](https://github.com/athoug/Learning-React)
+
+**_toughts_** Slow progress, but progress none the less.
