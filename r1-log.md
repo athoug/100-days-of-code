@@ -179,3 +179,11 @@ Also worked on some Raect today.I learned about component lifecycle and which me
 **link to Repo** [Learning React](https://github.com/athoug/Learning-React)
 
 **_toughts_** Slow progress, but progress none the less.
+
+### R1D21: September 16 2018
+DAY 5 of the daily CSS image challenge today. The category was your favorite animated animal. I chose to do Snorlax from Pokemon because I feel it embodies me, not to mention it's cute.
+
+**link to work** [Snorlax | Daily CSS image Challenge](https://codepen.io/athoug/pen/xaaRrg)
+
+**_toughts_** I wanted to give up eith each section, but I soldured on and for that, i am proud of myself. Slowly I'm gaining decipline. Baby steps athoug.
+
