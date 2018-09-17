@@ -187,3 +187,14 @@ DAY 5 of the daily CSS image challenge today. The category was your favorite ani
 
 **_toughts_** I wanted to give up eith each section, but I soldured on and for that, i am proud of myself. Slowly I'm gaining decipline. Baby steps athoug.
 
+### R1D22: September 17 2018
+DAY 6 of the daily CSS image challenge today. The category was Clock. This one was fun because I made it functional. I looked for insparation for the design and found one the fit perfectly and used JS to make the clock update each minute I also went through the Intermediate CSS section of the web-dev bootcamp and finished it.  
+
+**link to work** [Clock | Daily CSS image Challenge](https://codepen.io/athoug/pen/aaaQPa)
+
+Also worked on some Raect today.I learned about component lifecycle in regaards to update and what methods are called based on what is changed (props or state) and learned about PureComponents, and performance gains.
+
+**link to Repo** [Learning React](https://github.com/athoug/Learning-React)
+
+**_toughts_** Slow progress, but progress none the less.
+
