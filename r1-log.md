@@ -198,3 +198,8 @@ Also worked on some Raect today.I learned about component lifecycle in regaards 
 
 **_toughts_** Slow progress, but progress none the less.
 
+### R1D23: September 18 2018
+DAY 7 of the daily CSS image challenge today. The category was Ruler.  
+
+**link to work** [Ruler | Daily CSS image Challenge](https://codepen.io/athoug/pen/mGzaoO)
+
