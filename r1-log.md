@@ -208,3 +208,8 @@ DAY 8 of the daily CSS image challenge today. The category was Notepad.
 
 **link to work** [Ruler | Daily CSS image Challenge](https://codepen.io/athoug/pen/vzvKBJ)
 
+### R1D25: September 20 2018
+DAY 9 of the daily CSS image challenge today. The category was Calendar.  
+
+**link to work** [Ruler | Daily CSS image Challenge](https://codepen.io/athoug/pen/NLodwe)
+
