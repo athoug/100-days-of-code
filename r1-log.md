@@ -213,3 +213,8 @@ DAY 9 of the daily CSS image challenge today. The category was Calendar.
 
 **link to work** [Ruler | Daily CSS image Challenge](https://codepen.io/athoug/pen/NLodwe)
 
+### R1D26: September 21 2018
+Fix some of yesterdays code. Changhed the style and added a marker for the current day.
+
+**link to work** [Ruler | Daily CSS image Challenge](https://codepen.io/athoug/pen/NLodwe)
+
