@@ -218,3 +218,8 @@ Fix some of yesterdays code. Changhed the style and added a marker for the curre
 
 **link to work** [Ruler | Daily CSS image Challenge](https://codepen.io/athoug/pen/NLodwe)
 
+### R1D27: September 22 2018
+DAY 10 of the daily CSS image challenge today. The category was Pencil Jar. I was really pleased of what I did. I actually challenged myself and did something quite noce not just following along the topic. I also added some animation to push up the experiance. 
+
+**link to work** [Pencil Jar | Daily CSS image Challenge](https://codepen.io/athoug/pen/MqxNBy)
+
