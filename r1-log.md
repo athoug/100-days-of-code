@@ -223,3 +223,9 @@ DAY 10 of the daily CSS image challenge today. The category was Pencil Jar. I wa
 
 **link to work** [Pencil Jar | Daily CSS image Challenge](https://codepen.io/athoug/pen/MqxNBy)
 
+### R1D28: September 23 2018
+DAY 11 of the daily CSS image challenge today. The category was Pizza. I aimed to make a loader. at first the animation wasn't working and I felt a tad bit defeated then i realized my mistake which is the stoping point so I fixed it and it worked! I loked the design though the way I sliced the pizza isn't a perfect circle... Oh well.
+
+**link to work** [Pizza | Daily CSS image Challenge](https://codepen.io/athoug/pen/wEZqaE)
+
+I also worked a little on the web dev bootcamp cource. Covered a bit of the Bootstrap section.
