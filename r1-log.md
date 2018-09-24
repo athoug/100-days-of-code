@@ -229,3 +229,8 @@ DAY 11 of the daily CSS image challenge today. The category was Pizza. I aimed t
 **link to work** [Pizza | Daily CSS image Challenge](https://codepen.io/athoug/pen/wEZqaE)
 
 I also worked a little on the web dev bootcamp cource. Covered a bit of the Bootstrap section.
+
+### R1D29: September 24 2018
+DAY 12 of the daily CSS image challenge today. The category was Hamburger. it wasn't the best of days honestly. Been feeling quite down for the past couple of months but it hit hard today. I barly managed to login hours for the challenge. I'm not really satisfied with the burger it was justa quick draw but something none the less
+
+**link to work** [Hambergur | Daily CSS image Challenge](https://codepen.io/athoug/pen/aarVXe)
