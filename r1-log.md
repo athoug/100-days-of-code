@@ -234,3 +234,12 @@ I also worked a little on the web dev bootcamp cource. Covered a bit of the Boot
 DAY 12 of the daily CSS image challenge today. The category was Hamburger. it wasn't the best of days honestly. Been feeling quite down for the past couple of months but it hit hard today. I barly managed to login hours for the challenge. I'm not really satisfied with the burger it was justa quick draw but something none the less
 
 **link to work** [Hambergur | Daily CSS image Challenge](https://codepen.io/athoug/pen/aarVXe)
+
+### R1D30: September 25 2018
+DAY 13 of the daily CSS image challenge today. The category was Taco. It was a challenge trying to make the taco shell. it wasn't as I wanted it to look like but acceptable. [I guess with practice I'll get better] 
+
+**link to work** [Taco | Daily CSS image Challenge](https://codepen.io/athoug/pen/pOXvWY)
+
+Today I also went throught the coding bootcamp cource, managed to complete the Bootstarp section! 
+
+**_toughts_** I also decided to get into AI. So after i complete the first round of 100 days, my secound round will be AI focused! Super excited about this. Scared, but excited at the same time!
