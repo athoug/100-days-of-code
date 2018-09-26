@@ -243,3 +243,8 @@ DAY 13 of the daily CSS image challenge today. The category was Taco. It was a c
 Today I also went throught the coding bootcamp cource, managed to complete the Bootstarp section! 
 
 **_toughts_** I also decided to get into AI. So after i complete the first round of 100 days, my secound round will be AI focused! Super excited about this. Scared, but excited at the same time!
+
+### R1D31: September 26 2018
+DAY 14 of the daily CSS image challenge today. The category was Cheesecake.
+
+**link to work** [Cheesecake | Daily CSS image Challenge](https://codepen.io/athoug/pen/GXVoxE)
