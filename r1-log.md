@@ -248,3 +248,8 @@ Today I also went throught the coding bootcamp cource, managed to complete the B
 DAY 14 of the daily CSS image challenge today. The category was Cheesecake.
 
 **link to work** [Cheesecake | Daily CSS image Challenge](https://codepen.io/athoug/pen/GXVoxE)
+
+### R1D32: September 27 2018
+DAY 15 of the daily CSS image challenge today. The category was Pie.
+
+**link to work** [Pie | Daily CSS image Challenge](https://codepen.io/athoug/pen/EdYoBq)
