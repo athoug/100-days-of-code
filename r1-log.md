@@ -253,3 +253,8 @@ DAY 14 of the daily CSS image challenge today. The category was Cheesecake.
 DAY 15 of the daily CSS image challenge today. The category was Pie.
 
 **link to work** [Pie | Daily CSS image Challenge](https://codepen.io/athoug/pen/EdYoBq)
+
+### R1D33: September 28 2018
+DAY 16 of the daily CSS image challenge today. The category was Frankenstein.
+
+**link to work** [Frankenstein | Daily CSS image Challenge](https://codepen.io/athoug/pen/rqNwOe)
