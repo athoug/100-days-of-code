@@ -258,3 +258,9 @@ DAY 15 of the daily CSS image challenge today. The category was Pie.
 DAY 16 of the daily CSS image challenge today. The category was Frankenstein.
 
 **link to work** [Frankenstein | Daily CSS image Challenge](https://codepen.io/athoug/pen/rqNwOe)
+
+### R1D34: September 29 2018
+DAY 17 of the daily CSS image challenge today. The category was Zombie.
+
+**link to work** [Zombie | Daily CSS image Challenge](https://codepen.io/athoug/pen/LgEGra)
+
