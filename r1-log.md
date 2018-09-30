@@ -264,3 +264,7 @@ DAY 17 of the daily CSS image challenge today. The category was Zombie.
 
 **link to work** [Zombie | Daily CSS image Challenge](https://codepen.io/athoug/pen/LgEGra)
 
+### R1D35: September 30 2018
+DAY 18 of the daily CSS image challenge today. The category was Vampire.
+
+**link to work** [Vampire | Daily CSS image Challenge](https://codepen.io/athoug/pen/rqaqpR)
