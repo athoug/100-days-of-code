@@ -268,3 +268,8 @@ DAY 17 of the daily CSS image challenge today. The category was Zombie.
 DAY 18 of the daily CSS image challenge today. The category was Vampire.
 
 **link to work** [Vampire | Daily CSS image Challenge](https://codepen.io/athoug/pen/rqaqpR)
+
+### R1D36: October 1 2018
+DAY 19 of the daily CSS image challenge today. The category was Werewolf.
+
+**link to work** [Werewolf | Daily CSS image Challenge](https://codepen.io/athoug/pen/QZbOxP)
