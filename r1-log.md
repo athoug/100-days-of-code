@@ -273,3 +273,10 @@ DAY 18 of the daily CSS image challenge today. The category was Vampire.
 DAY 19 of the daily CSS image challenge today. The category was Werewolf.
 
 **link to work** [Werewolf | Daily CSS image Challenge](https://codepen.io/athoug/pen/QZbOxP)
+
+### R1D37: October 2 2018
+DAY 20 of the daily CSS image challenge today. The category was Monsters Inc. It's a bit iffy but that's okay.
+
+**link to work** [Monsters Inc | Daily CSS image Challenge](https://codepen.io/athoug/pen/vVNyOw)
+
+I've also started the 30 days CSS3 challenge. I'm exited so it would solidify my understanding and then we hop on to developer bootcamp once more.
