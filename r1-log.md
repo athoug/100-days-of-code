@@ -289,3 +289,13 @@ DAY 21 of the daily CSS image challenge today. The category was Superman.
 I also did a demo for the startup I work for for a slider that shanes the name of teh contaier whilst still keepting the style. 
 
 **link to work** [Slider Design](https://codepen.io/athoug/pen/PyZLZG)
+
+### R1D39: October 4 2018
+DAY 22 of the daily CSS image challenge today. The category was Green Lantern. 
+
+**link to work** [Green Lantern | Daily CSS image Challenge](https://codepen.io/athoug/pen/ZqWKmX)
+
+I also did another green lantern inspired pen just because. 
+
+**link to work** [Green Lantern Symbol](https://codepen.io/athoug/pen/VEaMad)
+
