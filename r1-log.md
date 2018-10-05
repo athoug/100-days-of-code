@@ -286,7 +286,7 @@ DAY 21 of the daily CSS image challenge today. The category was Superman.
 
 **link to work** [Superman | Daily CSS image Challenge](https://codepen.io/athoug/pen/XxXZba)
 
-I also did a demo for the startup I work for for a slider that shanes the name of teh contaier whilst still keepting the style. 
+I also did a demo for the startup I work for for a slider that shanes the name of the contaier whilst still keepting the style. 
 
 **link to work** [Slider Design](https://codepen.io/athoug/pen/PyZLZG)
 
@@ -298,4 +298,13 @@ DAY 22 of the daily CSS image challenge today. The category was Green Lantern.
 I also did another green lantern inspired pen just because. 
 
 **link to work** [Green Lantern Symbol](https://codepen.io/athoug/pen/VEaMad)
+
+### R1D40: October 4 2018
+DAY 23 of the daily CSS image challenge today. The category was Wolverine. I really enjoyed todays challenge not only did I make a ice design, the animation of teh claws was awesome! 
+
+**link to work** [Wolverine | Daily CSS image Challenge](https://codepen.io/athoug/pen/MPergq)
+
+I've also completed the first tutorial of the 30 days CSS3 challenge. I loved the exersize. Learned a lot when it comes to styling buttons. and got a better grasp on the ::before and ::after psuo elements
+
+**_toughts_** Today was super fun. I missed this feeling of just enjoying code and lose myself in it. Remember athoug, you truly love to code. 
 
