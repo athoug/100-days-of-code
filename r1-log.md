@@ -315,3 +315,12 @@ DAY 24 of the daily CSS image challenge today. The category was Iron Man.
 
 **_toughts_** Today was a tough day[mental health wise]
 
+### R1D42: October 7 2018
+DAY 25 of the daily CSS image challenge today. The category was Capitan America. Today was so tough. I wanted to quit multiple times, and why the hell did I chose a difficult illustraion? But finally managed to do it. It's not perfect but presentable. The sheild animation is so half-assed but better than nothing.
+
+**link to work** [was Capitan America | Daily CSS image Challenge](https://codepen.io/athoug/pen/vVXvPx)
+
+I also went back to the bootcamp course because I am determind to gain teh front-end skills that I want befor eteh end of this year! Managed to go through the intro to JS lectures. I also did day 2 od teh 30 day CSS3 challenge. It was a nice practice on text shadow. 
+
+**_toughts_** Another tough day[mental health wise]
+
