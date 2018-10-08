@@ -318,9 +318,18 @@ DAY 24 of the daily CSS image challenge today. The category was Iron Man.
 ### R1D42: October 7 2018
 DAY 25 of the daily CSS image challenge today. The category was Capitan America. Today was so tough. I wanted to quit multiple times, and why the hell did I chose a difficult illustraion? But finally managed to do it. It's not perfect but presentable. The sheild animation is so half-assed but better than nothing.
 
-**link to work** [was Capitan America | Daily CSS image Challenge](https://codepen.io/athoug/pen/vVXvPx)
+**link to work** [Capitan America | Daily CSS image Challenge](https://codepen.io/athoug/pen/vVXvPx)
 
-I also went back to the bootcamp course because I am determind to gain teh front-end skills that I want befor eteh end of this year! Managed to go through the intro to JS lectures. I also did day 2 od teh 30 day CSS3 challenge. It was a nice practice on text shadow. 
+I also went back to the bootcamp course because I am determind to gain the front-end skills that I want before the end of this year! Managed to go through the intro to JS lectures. I also did day 2 of the 30 day CSS3 challenge. It was a nice practice on text shadow. 
 
 **_toughts_** Another tough day[mental health wise]
+
+### R1D43: October 8 2018
+DAY 26 of the daily CSS image challenge today. The category was the apple app store icon. This was easy, it did however made me think of how to disect vector images
+
+**link to work** [Apple App Store Icon | Daily CSS image Challenge](https://codepen.io/athoug/pen/xyRLxQ)
+
+covered a section in the bootcamp course because  completed the intro to JS lectures. I also did day 3 of the 30 day CSS3 challenge. I actually understand `clip-path` now and managed to do a shape on my own!
+
+**_toughts_** slowly we will get better. Patience is key.
 
