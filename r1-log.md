@@ -333,3 +333,12 @@ covered a section in the bootcamp course because  completed the intro to JS lect
 
 **_toughts_** slowly we will get better. Patience is key.
 
+### R1D44: October 9 2018
+DAY 27 of the daily CSS image challenge today. The category was the Bug. I'm really satisfid with the result, even though the topic was meh, but it tured out to be a fun exercise!
+
+**link to work** [Bug | Daily CSS image Challenge](https://codepen.io/athoug/pen/ePgyLj)
+
+covered a section in the bootcamp course because  Started teh JS Basics section, covered the topics of boolean logic, operators, control flow, and while loops. I also did day 4 of the 30 day CSS3 challenge. I actually understand `::before` andd `::After` a bit better now. And got to know other ways of selecting elelemts.
+
+**_toughts_** I reached day 100 in my 180 day project!!!
+
