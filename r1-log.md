@@ -338,7 +338,16 @@ DAY 27 of the daily CSS image challenge today. The category was the Bug. I'm rea
 
 **link to work** [Bug | Daily CSS image Challenge](https://codepen.io/athoug/pen/ePgyLj)
 
-covered a section in the bootcamp course because  Started teh JS Basics section, covered the topics of boolean logic, operators, control flow, and while loops. I also did day 4 of the 30 day CSS3 challenge. I actually understand `::before` andd `::After` a bit better now. And got to know other ways of selecting elelemts.
+covered a section in the bootcamp course, Started the JS Basics section, covered the topics of boolean logic, operators, control flow, and while loops. I also did day 4 of the 30 day CSS3 challenge. I actually understand `::before` and `::After` a bit better now. And got to know other ways of selecting elelemts.
 
 **_toughts_** I reached day 100 in my 180 day project!!!
+
+### R1D45: October 10 2018
+DAY 28 of the daily CSS image challenge today. The category was the Cog.
+
+**link to work** [Cog | Daily CSS image Challenge](https://codepen.io/athoug/pen/PypRBX)
+
+cammpleted a section in the bootcamp course JS Conrol Flow section, covered for loops and did a bunch of problem sets. I also did day 5 of the 30 day CSS3 challenge. more practice on the `::After` psudo class. It wa sa nice exercise on UX.
+
+**_toughts_** I came across a nice githuib repo that I believe will help me advance my skills as a developer [P1xt’s Computer Science and Web Development — comprehensive guide](https://github.com/P1xt/p1xt-guides#computer-science-and-web-development---comprehensive)
 
