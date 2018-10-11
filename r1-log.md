@@ -347,7 +347,13 @@ DAY 28 of the daily CSS image challenge today. The category was the Cog.
 
 **link to work** [Cog | Daily CSS image Challenge](https://codepen.io/athoug/pen/PypRBX)
 
-cammpleted a section in the bootcamp course JS Conrol Flow section, covered for loops and did a bunch of problem sets. I also did day 5 of the 30 day CSS3 challenge. more practice on the `::After` psudo class. It wa sa nice exercise on UX.
+completed a section in the bootcamp course JS Conrol Flow section, covered for loops and did a bunch of problem sets. I also did day 5 of the 30 day CSS3 challenge. more practice on the `::After` psudo class. It wa sa nice exercise on UX.
 
 **_toughts_** I came across a nice githuib repo that I believe will help me advance my skills as a developer [P1xt’s Computer Science and Web Development — comprehensive guide](https://github.com/P1xt/p1xt-guides#computer-science-and-web-development---comprehensive)
 
+### R1D46: October 11 2018
+DAY 29 of the daily CSS image challenge today. The category was the Download.I love that I challenged myself with the animation.
+
+**link to work** [Downlaod | Daily CSS image Challenge](https://codepen.io/athoug/pen/bmWzqq)
+
+Started a section in the bootcamp course JS Functions, covered their purpose, syntax, arguments, return, and function declaration, and expressions. I also did day 6 of the 30 day CSS3 challenge. I actually learned something new `@media print` I didn't know people styled the print page. 
