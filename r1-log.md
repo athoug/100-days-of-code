@@ -357,3 +357,10 @@ DAY 29 of the daily CSS image challenge today. The category was the Download.I l
 **link to work** [Downlaod | Daily CSS image Challenge](https://codepen.io/athoug/pen/bmWzqq)
 
 Started a section in the bootcamp course JS Functions, covered their purpose, syntax, arguments, return, and function declaration, and expressions. I also did day 6 of the 30 day CSS3 challenge. I actually learned something new `@media print` I didn't know people styled the print page. 
+
+### R1D47: October 12 2018
+DAY 30 of the daily CSS image challenge today. The category was the Bar Graph.I love how it turned out!
+
+**link to work** [Bar Graph | Daily CSS image Challenge](https://codepen.io/athoug/pen/VEWNjy)
+
+completed a section in the bootcamp course that covers JS Functions, went over scope, and higher order functions. I also did day 7 of the 30 day CSS3 challenge. I loved playing around with `filter()` and manipulating images.
