@@ -364,3 +364,11 @@ DAY 30 of the daily CSS image challenge today. The category was the Bar Graph.I 
 **link to work** [Bar Graph | Daily CSS image Challenge](https://codepen.io/athoug/pen/VEWNjy)
 
 completed a section in the bootcamp course that covers JS Functions, went over scope, and higher order functions. I also did day 7 of the 30 day CSS3 challenge. I loved playing around with `filter()` and manipulating images.
+
+### R1D48: October 13 2018
+DAY 31 of the daily CSS image challenge today. The category was the JS Logo.I love how it turned out!
+
+**link to work** [JS Logo | Daily CSS image Challenge](https://codepen.io/athoug/pen/gBxZav)
+
+Started a section in the bootcamp course that covers JS Arrays, went over arrays, and their methods and properties. I also did day 8 of the 30 day CSS3 challenge. It was realy fun creating a 8-bit maario with `box-shadow`.
+
