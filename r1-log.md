@@ -372,3 +372,9 @@ DAY 31 of the daily CSS image challenge today. The category was the JS Logo.I lo
 
 Started a section in the bootcamp course that covers JS Arrays, went over arrays, and their methods and properties. I also did day 8 of the 30 day CSS3 challenge. It was realy fun creating a 8-bit maario with `box-shadow`.
 
+### R1D49: October 14 2018
+DAY 32 of the daily CSS image challenge today. The category was the Angular Logo. Proud that I did `cip-path` on my own!
+
+**link to work** [JS Logo | Daily CSS image Challenge](https://codepen.io/athoug/pen/MPEpLa)
+
+completed a section in the bootcamp course that covers JS Arrays, went over array itteration, and did some problem sets of that section. I also did day 9 of the 30 day CSS3 challenge. I leared something new in regards to clearing the parent container of the `float` property.
