@@ -384,4 +384,4 @@ DAY 33 of the daily CSS image challenge today. The category was the Vue JS Logo.
 
 **link to work** [Vue JS Logo | Daily CSS image Challenge](https://codepen.io/athoug/pen/aRLrvW)
 
-Started a section in the bootcamp course that covers JS Objects, went over object initalization, how to create the data structure, and teh difference between it and arrays. I also did day 10 of the 30 day CSS3 challenge. It covered procing tables, what I liked is learning about the `:not()` psudo selector, also about even and odd childs by `:nth-child(2n)` and `noth-child(2n+1)` and most impressive is teh chaning of selectors such as `.className.not(:last-child)` never knew we could do that
+Started a section in the bootcamp course that covers JS Objects, went over object initalization, how to create the data structure, and teh difference between it and arrays. I also did day 10 of the 30 day CSS3 challenge. It covered procing tables, what I liked is learning about the `:not()` psudo selector, also about even and odd childs by `:nth-child(2n)` and `nth-child(2n+1)` and most impressive is teh chaning of selectors such as `.className.not(:last-child)` never knew we could do that
