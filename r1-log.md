@@ -380,8 +380,15 @@ DAY 32 of the daily CSS image challenge today. The category was the Angular Logo
 completed a section in the bootcamp course that covers JS Arrays, went over array itteration, and did some problem sets of that section. I also did day 9 of the 30 day CSS3 challenge. I leared something new in regards to clearing the parent container of the `float` property.
 
 ### R1D50: October 15 2018
-DAY 33 of the daily CSS image challenge today. The category was the Vue JS Logo. Proud that I did `cip-path` on my own! and I'm glad nthe classes umbers are redued. I also did a bit of animation :)
+DAY 33 of the daily CSS image challenge today. The category was the Vue JS Logo. Proud that I did `cip-path` on my own! and I'm glad nthe classes numbers are redued. I also did a bit of animation :)
 
 **link to work** [Vue JS Logo | Daily CSS image Challenge](https://codepen.io/athoug/pen/aRLrvW)
 
-Started a section in the bootcamp course that covers JS Objects, went over object initalization, how to create the data structure, and teh difference between it and arrays. I also did day 10 of the 30 day CSS3 challenge. It covered procing tables, what I liked is learning about the `:not()` psudo selector, also about even and odd childs by `:nth-child(2n)` and `nth-child(2n+1)` and most impressive is teh chaning of selectors such as `.className.not(:last-child)` never knew we could do that
+Started a section in the bootcamp course that covers JS Objects, went over object initalization, how to create the data structure, and teh difference between it and arrays. I also did day 10 of the 30 day CSS3 challenge. It covered pricing tables, what I liked is learning about the `:not()` psudo selector, also about even and odd childs by `:nth-child(2n)` and `nth-child(2n+1)` and most impressive is teh chaning of selectors such as `.className.not(:last-child)` never knew we could do that
+
+### R1D51: October 16 2018
+DAY 34 of the daily CSS image challenge today. The category was the React JS Logo. I'm glad nthe classes numbers are redued. I also did a bit of animation :)
+
+**link to work** [React Logo | Daily CSS image Challenge](https://codepen.io/athoug/pen/wYpvBB)
+
+completed a section in the bootcamp course that covers JS Objects, covered an exercise, methods, and the `this` keyword. I also did day 11 of the 30 day CSS3 challenge. It covered IE and a way to go around it by adding conditional comments. A nice lesson on accessability, and usability,
