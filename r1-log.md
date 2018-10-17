@@ -396,6 +396,6 @@ completed a section in the bootcamp course that covers JS Objects, covered an ex
 ### R1D52: October 17 2018
 DAY 35 of the daily CSS image challenge today. The category was the Elm Logo. This one was a tought one. It was like tetris but harder. I'm glad I did it, and added a hint of animation :)
 
-**link to work** [Elm Logo | Daily CSS image Challenge](#)
+**link to work** [Elm Logo | Daily CSS image Challenge](https://codepen.io/athoug/pen/QZQjQK)
 
 Started a section in the bootcamp course that covers DOM, went over what the DOM is and covered a couple of methods on selecting. I also did day 12 of the 30 day CSS3 challenge. It covered CSS variables. nice simlpe exersize
