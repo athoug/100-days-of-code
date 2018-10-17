@@ -387,8 +387,15 @@ DAY 33 of the daily CSS image challenge today. The category was the Vue JS Logo.
 Started a section in the bootcamp course that covers JS Objects, went over object initalization, how to create the data structure, and teh difference between it and arrays. I also did day 10 of the 30 day CSS3 challenge. It covered pricing tables, what I liked is learning about the `:not()` psudo selector, also about even and odd childs by `:nth-child(2n)` and `nth-child(2n+1)` and most impressive is teh chaning of selectors such as `.className.not(:last-child)` never knew we could do that
 
 ### R1D51: October 16 2018
-DAY 34 of the daily CSS image challenge today. The category was the React JS Logo. I'm glad nthe classes numbers are redued. I also did a bit of animation :)
+DAY 34 of the daily CSS image challenge today. The category was the React JS Logo. I'm glad the number of classes numbers are redued. I also did a bit of animation :)
 
 **link to work** [React Logo | Daily CSS image Challenge](https://codepen.io/athoug/pen/wYpvBB)
 
-completed a section in the bootcamp course that covers JS Objects, covered an exercise, methods, and the `this` keyword. I also did day 11 of the 30 day CSS3 challenge. It covered IE and a way to go around it by adding conditional comments. A nice lesson on accessability, and usability,
+completed a section in the bootcamp course that covers JS Objects, covered an exercise, methods, and the `this` keyword. I also did day 11 of the 30 day CSS3 challenge. It covered IE and a way to go around it by adding conditional comments. A nice lesson on accessability, and usability.
+
+### R1D52: October 17 2018
+DAY 35 of the daily CSS image challenge today. The category was the Elm Logo. This one was a tought one. It was like tetris but harder. I'm glad I did it, and added a hint of animation :)
+
+**link to work** [Elm Logo | Daily CSS image Challenge](#)
+
+Started a section in the bootcamp course that covers DOM, went over what the DOM is and covered a couple of methods on selecting. I also did day 12 of the 30 day CSS3 challenge. It covered CSS variables. nice simlpe exersize
