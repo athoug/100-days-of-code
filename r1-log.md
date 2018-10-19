@@ -399,3 +399,18 @@ DAY 35 of the daily CSS image challenge today. The category was the Elm Logo. Th
 **link to work** [Elm Logo | Daily CSS image Challenge](https://codepen.io/athoug/pen/QZQjQK)
 
 Started a section in the bootcamp course that covers DOM, went over what the DOM is and covered a couple of methods on selecting. I also did day 12 of the 30 day CSS3 challenge. It covered CSS variables. nice simlpe exersize
+
+### R1D53: October 18 2018
+DAY 36 of the daily CSS image challenge today. The category was the Cell phone Logo. 
+
+**link to work** [Cell Phone | Daily CSS image Challenge](https://codepen.io/athoug/pen/xyWyPG)
+
+Completed a section in the bootcamp course that covers DOM, went over manipulating dom in different aspectts such as style, casses, and content. I also did day 13 of the 30 day CSS3 challenge. It covered sticky footer.
+
+### R1D54: October 19 2018
+DAY 37 of the daily CSS image challenge today. The category was the Laptop Logo. 
+
+**link to work** [Laptop | Daily CSS image Challenge](https://codepen.io/athoug/pen/Zqoejr)
+
+Started a section in the bootcamp course that covers Advanced DOM, went over event listners and did a nice practice of score keeping. I also did day 14 of the 30 day CSS3 challenge. It covered sticky header.
+
