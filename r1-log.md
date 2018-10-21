@@ -423,3 +423,12 @@ Completed a section in the bootcamp course that covers Advanced DOM, went over m
 
 **_thoughts_** My pen last night [the laptop one] reached more than 300 views!! I'm so happy. Firt pen gets such a response in a day. I hope I grow even further and better.
 
+### R1D56: October 21 2018
+DAY 39 of the daily CSS image challenge today. The category was the Keyboard. 
+
+**link to work** [Keyboard | Daily CSS image Challenge](https://codepen.io/athoug/pen/LgrMoM)
+
+Started a section in the bootcamp course that covers A project called "Color Game", went ovhalf of the section and it was a fun practice with dom. I also did day 16 of the 30 day CSS3 challenge. It covered Model window.
+
+**_thoughts_** I am trying to have my pin play music but dear god it's difficult will try to figure out how to make it work eventaly.
+
