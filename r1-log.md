@@ -432,3 +432,17 @@ Started a section in the bootcamp course that covers A project called "Color Gam
 
 **_thoughts_** I am trying to have my pin play music but dear god it's difficult will try to figure out how to make it work eventaly.
 
+### R1D57: October 22 2018
+Completed a section in the bootcamp course that covers A project called "Color Game", it was a nice exersize on code structureing refactoring and all in a ll app developemnt. I also did day 17 of the 30 day CSS3 challenge. It was a nice practice where we did a pacman animated chomp.
+
+**_thoughts_** Today wasn't a good day. My computer crashed lagged and I might lose files. This really got me spiriling. Lesson learned ALWAYS ALWAYS backup your files.
+
+### R1D58: October 23 2018
+DAY 40 of the daily CSS image challenge today. The category was the Nintendo. It was a tough one but a fun one
+
+**link to work** [Nintendo 2DS | Daily CSS image Challenge](https://codepen.io/athoug/pen/QZVXNO)
+
+Started a section in the bootcamp course that covers jQuery, It was just an intro and use cases. I also did day 18 of the 30 day CSS3 challenge. It covered tooltips I can see myself using this project in somethin gin the future.
+
+**_thoughts_** Today is a better day.
+
