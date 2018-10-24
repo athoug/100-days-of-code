@@ -446,3 +446,12 @@ Started a section in the bootcamp course that covers jQuery, It was just an intr
 
 **_thoughts_** Today is a better day.
 
+### R1D59: October 24 2018
+DAY 41 of the daily CSS image challenge today. The category was the Mascot for Startup. It was a challenging one but a fun one
+
+**link to work** [Mascot for Startup | Daily CSS image Challenge](https://codepen.io/athoug/pen/QZZoKg)
+
+completed a section in the bootcamp course that covers jQuery, It was about selecting elements. I also did day 19 of the 30 day CSS3 challenge. It covered progress bars.
+
+**_thoughts_** Today is a fun day.
+
