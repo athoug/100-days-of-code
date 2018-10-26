@@ -456,10 +456,17 @@ completed a section in the bootcamp course that covers jQuery, It was about sele
 **_thoughts_** Today is a fun day.
 
 ### R1D60: October 25 2018
-DAY 42 of the daily CSS image challenge today. The category was a Critter. I liek the animation
+DAY 42 of the daily CSS image challenge today. The category was a Critter. I like the animation
 **link to work** [Critter | Daily CSS image Challenge](https://codepen.io/athoug/pen/xyQvMV)
 
 completed a section in the bootcamp course that covers Advanced jQuery, It covered methods such as `click()` `keypress()` and `on()` we also covered a couple of animations such as `fadeIn()`..etc. I also did day 20 of the 30 day CSS3 challenge. It covered animating a pyramid. It was interedting seeing his train of thought.
 
 **_thoughts_** Another fun day [I think i hit a grove?].
+
+### R1D61: October 26 2018
+DAY 43 of the daily CSS image challenge today. The category was a Animal. 
+**link to work** [Animal | Daily CSS image Challenge](https://codepen.io/athoug/pen/NOeQZB)
+
+Started a section in the bootcamp course that covers Todo List Project. I also did day 21 of the 30 day CSS3 challenge. It covered animating loader spinners. It was a nice exercise.
+
 
