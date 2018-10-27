@@ -469,4 +469,8 @@ DAY 43 of the daily CSS image challenge today. The category was a Animal.
 
 Started a section in the bootcamp course that covers Todo List Project. I also did day 21 of the 30 day CSS3 challenge. It covered animating loader spinners. It was a nice exercise.
 
+### R1D62: October 27 2018
+DAY 44 of the daily CSS image challenge today. The category was a Robot. I choose to do Elliot from Mr.Robot 
+**link to work** [mr.Robot | Daily CSS image Challenge](https://codepen.io/athoug/pen/VERwLX)
 
+completed a section in the bootcamp course that covers Todo List Project. I also did day 22 of the 30 day CSS3 challenge. It covered flexbox and it was a nice introduction to the technology. I got the ghrasp of it and hope to dive deeper into it.
