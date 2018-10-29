@@ -482,3 +482,11 @@ DAY 45 of the daily CSS image challenge today. The category was a Space inspired
 Started a section in the bootcamp course that covers the patatap Project. This one was fun since we are working with animation. I also did day 23 of the 30 day CSS3 challenge. It covered Acoordian. It was a nice approact to see how it's done using CSS. 
 
 **_thoughts_** I am super super proud of me today. I challenged myself with the daily css image. I could have done something simple but I decided to do something challenging but rewarding!
+
+### R1D64: October 28 2018
+DAY 46 of the daily CSS image challenge today. The category was a Pinata. It was a simple one, but quite dificult to make. 
+**link to work** [Pinata | Daily CSS image Challenge](https://codepen.io/athoug/pen/ZqZyZL)
+
+completed a section in the bootcamp course that covers the patatap Project. This one was fun since we are working with animation. I also did day 24 of the 30 day CSS3 challenge. It covered a selector called `@supports (proper name)` which is quite usful and definatly using it in the future.
+
+**_thoughts_** Today was tough mentaly. It quite astounding how yesterday was a high and today is just a bad low. I'm just glad I did my tasks despite my mood.
