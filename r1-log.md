@@ -474,3 +474,11 @@ DAY 44 of the daily CSS image challenge today. The category was a Robot. I choos
 **link to work** [mr.Robot | Daily CSS image Challenge](https://codepen.io/athoug/pen/VERwLX)
 
 completed a section in the bootcamp course that covers Todo List Project. I also did day 22 of the 30 day CSS3 challenge. It covered flexbox and it was a nice introduction to the technology. I got the ghrasp of it and hope to dive deeper into it.
+
+### R1D63: October 28 2018
+DAY 45 of the daily CSS image challenge today. The category was a Space inspired mascot. I decided to go with space inspired theme. 
+**link to work** [Space inspired | Daily CSS image Challenge](https://codepen.io/athoug/pen/dgreoa)
+
+Started a section in the bootcamp course that covers the patatap Project. This one was fun since we are working with animation. I also did day 23 of the 30 day CSS3 challenge. It covered Acoordian. It was a nice approact to see how it's done using CSS. 
+
+**_thoughts_** I am super super proud of me today. I challenged myself with the daily css image. I could have done something simple but I decided to do something challenging but rewarding!
