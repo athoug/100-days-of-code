@@ -483,10 +483,18 @@ Started a section in the bootcamp course that covers the patatap Project. This o
 
 **_thoughts_** I am super super proud of me today. I challenged myself with the daily css image. I could have done something simple but I decided to do something challenging but rewarding!
 
-### R1D64: October 28 2018
+### R1D64: October 29 2018
 DAY 46 of the daily CSS image challenge today. The category was a Pinata. It was a simple one, but quite dificult to make. 
 **link to work** [Pinata | Daily CSS image Challenge](https://codepen.io/athoug/pen/ZqZyZL)
 
 completed a section in the bootcamp course that covers the patatap Project. This one was fun since we are working with animation. I also did day 24 of the 30 day CSS3 challenge. It covered a selector called `@supports (proper name)` which is quite usful and definatly using it in the future.
 
 **_thoughts_** Today was tough mentaly. It quite astounding how yesterday was a high and today is just a bad low. I'm just glad I did my tasks despite my mood.
+
+### R1D65: October 30 2018
+DAY 47 of the daily CSS image challenge today. The category was a Cake. It was a simple one. 
+**link to work** [Cake | Daily CSS image Challenge](https://codepen.io/athoug/pen/aRrJrR)
+
+Started a section in the bootcamp course that covers the begining of the backend section. we covered the rsquest and response loop between client and derver. The stackes used in Backend or rather any project, and http protocall with examples.. I also did day 25 of the 30 day CSS3 challenge. It covered slide in pannels. It was simple and to the point. I definatly see myself using it in the future perhaps my postfolio project.
+
+**_thoughts_** I'm trying to be better. Think positivly. 
