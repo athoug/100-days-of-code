@@ -498,3 +498,11 @@ DAY 47 of the daily CSS image challenge today. The category was a Cake. It was a
 Started a section in the bootcamp course that covers the begining of the backend section. we covered the rsquest and response loop between client and derver. The stackes used in Backend or rather any project, and http protocall with examples.. I also did day 25 of the 30 day CSS3 challenge. It covered slide in pannels. It was simple and to the point. I definatly see myself using it in the future perhaps my postfolio project.
 
 **_thoughts_** I'm trying to be better. Think positivly. 
+
+### R1D66: October 31 2018
+DAY 48 of the daily CSS image challenge today. The category was a Craft Beer. It was a simple one. 
+**link to work** [Craft Beer | Daily CSS image Challenge](https://codepen.io/athoug/pen/pxXVKb)
+
+Started a section in the bootcamp course that covers the command line section. covered diffrent commands. I also did day 26 of the 30 day CSS3 challenge. it covered 3D layers and this one was quite interesting and sparked some creative ideas. Definatly going back to it in the future.
+
+**_thoughts_** Not a bad day.
