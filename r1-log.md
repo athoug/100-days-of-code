@@ -506,3 +506,11 @@ DAY 48 of the daily CSS image challenge today. The category was a Craft Beer. It
 Started a section in the bootcamp course that covers the command line section. covered diffrent commands. I also did day 26 of the 30 day CSS3 challenge. it covered 3D layers and this one was quite interesting and sparked some creative ideas. Definatly going back to it in the future.
 
 **_thoughts_** Not a bad day.
+
+### R1D67: November 1 2018
+DAY 49 of the daily CSS image challenge today. The category was a Dance Dance Revolution Mat.
+**link to work** [Dance Dance Revolution Mat | Daily CSS image Challenge](https://codepen.io/athoug/pen/yRmRNV)
+
+Started a section in the bootcamp course that covers Bootstrap 4 section. It showed the diffrences between the two versions and colors and cards. I also did day 27 of the 30 day CSS3 challenge. It covered dropdown menus.
+
+**_thoughts_** Oh my god one more day left for the daily css images challenge!
