@@ -514,3 +514,11 @@ DAY 49 of the daily CSS image challenge today. The category was a Dance Dance Re
 Started a section in the bootcamp course that covers Bootstrap 4 section. It showed the diffrences between the two versions and colors and cards. I also did day 27 of the 30 day CSS3 challenge. It covered dropdown menus.
 
 **_thoughts_** Oh my god one more day left for the daily css images challenge!
+
+### R1D68: November 2 2018
+DAY 50 of the daily CSS image challenge today. The category was Party Ciy.
+**link to work** [Party Ciy | Daily CSS image Challenge](https://codepen.io/athoug/pen/jQNZEE)
+
+Completed a section in the bootcamp course that covers Bootstrap 4 section. we went through the diffrent components from typography, utility functions, responsivness. I don't belive i'm saying this but bootstap 4 is pretty cool. I also did day 28 of the 30 day CSS3 challenge. It covered tips on how to optimize your CSS. it's nice to be given pro tips. 
+
+**_thoughts_** I FINISHED THE DAILY CSS IMAGES CHALLENGE! Can't wait to start the Javascript 30
