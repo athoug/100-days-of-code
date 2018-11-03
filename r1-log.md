@@ -522,3 +522,7 @@ DAY 50 of the daily CSS image challenge today. The category was Party Ciy.
 Completed a section in the bootcamp course that covers Bootstrap 4 section. we went through the diffrent components from typography, utility functions, responsivness. I don't belive i'm saying this but bootstap 4 is pretty cool. I also did day 28 of the 30 day CSS3 challenge. It covered tips on how to optimize your CSS. it's nice to be given pro tips. 
 
 **_thoughts_** I FINISHED THE DAILY CSS IMAGES CHALLENGE! Can't wait to start the Javascript 30
+
+### R1D69: November 3 2018
+started a section in the bootcamp course that covers Flexbox in Bootstrap 4. Covered Flexbox and it's properties, man this makes positioning much more easier. I do however need to read more about it. I also did day 29 of the 30 day CSS3 challenge. It covered blurry image effects
+**_thoughts_** Almost done with the CSS3 30 days. 
