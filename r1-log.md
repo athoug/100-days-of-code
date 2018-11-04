@@ -526,3 +526,12 @@ Completed a section in the bootcamp course that covers Bootstrap 4 section. we w
 ### R1D69: November 3 2018
 started a section in the bootcamp course that covers Flexbox in Bootstrap 4. Covered Flexbox and it's properties, man this makes positioning much more easier. I do however need to read more about it. I also did day 29 of the 30 day CSS3 challenge. It covered blurry image effects
 **_thoughts_** Almost done with the CSS3 30 days. 
+
+### R1D70: November 4 2018
+Going through the section in the bootcamp course that covers Flexbox in Bootstrap 4. We did a miniproject that works with teh grid system of bootstrap. I also did day 30 of the 30 day CSS3 challenge. It coovered drawing a coffee mug in CSS. 
+
+Started day 1 of the javascript30 challeneg. The project was on drum kit. I took it and made my own. This was one fun project not to mention the learning outcome was superb. 
+
+**link to work** [Drums](https://athoug.xyz/day124/index.html)
+
+**_thoughts_** Done with the CSS3 30 days. 
