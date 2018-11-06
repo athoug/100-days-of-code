@@ -535,3 +535,15 @@ Started day 1 of the javascript30 challeneg. The project was on drum kit. I took
 **link to work** [Drums](https://athoug.xyz/day124/index.html)
 
 **_thoughts_** Done with the CSS3 30 days. 
+
+### R1D71: November 5 2018
+Completed  the section in the bootcamp course that covers Flexbox in Bootstrap 4. And did a modern looking website. It was a nice excersize on flexbox and bootstrap 4. 
+
+### R1D72: November 6 2018
+Started day 2 of the javascript30 challeneg. The project was about Analog Clocks. I took it and made my own. This was one fun project not to mention the learning outcome was superb. 
+
+**link to work** [Time Capsule](https://athoug.xyz/day125/index.html)
+
+I also went over the React course on Youtube. covered the concepts of components and react and reactDom rendering
+
+**_thoughts_** I finally wrote down teh study plan and set a date for my learning! 
