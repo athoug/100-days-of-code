@@ -546,4 +546,10 @@ Started day 2 of the javascript30 challeneg. The project was about Analog Clocks
 
 I also went over the React course on Youtube. covered the concepts of components and react and reactDom rendering
 
-**_thoughts_** I finally wrote down teh study plan and set a date for my learning! 
+**_thoughts_** I finally wrote down the study plan and set a date for my learning! 
+
+### R1D73: November 7 2018
+Started day 3 of the javascript30 challeneg. The project was about CSS Variables + JS. I went all in variables to be honest read a lot of articles about them, their importance, and documented my findings in the stydy-plan repo I have. 
+
+I also went over an articles about `flexbox` in css-tricks I practiced a bit and I'm slowly getting teh hang of flex :)
+**_thoughts_** True I haven't done something for my 180-day project but I plan on logging 2 projects tomorrow to make up for it.
