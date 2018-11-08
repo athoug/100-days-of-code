@@ -553,3 +553,12 @@ Started day 3 of the javascript30 challeneg. The project was about CSS Variables
 
 I also went over an articles about `flexbox` in css-tricks I practiced a bit and I'm slowly getting teh hang of flex :)
 **_thoughts_** True I haven't done something for my 180-day project but I plan on logging 2 projects tomorrow to make up for it.
+
+### R1D74: November 8 2018
+Started day 4 of the javascript30 challeneg. The project was about Array Cardio. We went through varying practice using array methods such as `filter()` `map()` `reduce()` `sort()` it was a nicec intro to fucntional programming.  
+
+I also went over a couple of articles that range from css variables [with a bunch of practice] and the array methods stated above with their practice as well. 
+
+I'm also half way therough [the React Crash Course](https://www.youtube.com/watch?v=Ke90Tje7VS0&list=PLB0zrWaupfEBqnOZbzntBLJAfRV7vmpnx&index=15&t=0s) on youtybe. Hopfuly by tomorrow i'd have completed it! 
+
+**_thoughts_** I again haven't done something for my 180-day project but I plan on logging 3 projects tomorrow to make up for it. Time has been an issue with my schedule latley :(
