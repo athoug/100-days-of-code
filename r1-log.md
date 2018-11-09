@@ -562,3 +562,8 @@ I also went over a couple of articles that range from css variables [with a bunc
 I'm also half way therough [the React Crash Course](https://www.youtube.com/watch?v=Ke90Tje7VS0&list=PLB0zrWaupfEBqnOZbzntBLJAfRV7vmpnx&index=15&t=0s) on youtybe. Hopfuly by tomorrow i'd have completed it! 
 
 **_thoughts_** I again haven't done something for my 180-day project but I plan on logging 3 projects tomorrow to make up for it. Time has been an issue with my schedule latley :(
+
+### R1D75: November 9 2018
+Finaly completed [the React Crash Course](https://www.youtube.com/watch?v=Ke90Tje7VS0) on youtybe. It took so long especially me taking notes after each section and working my way through the porject and experamenting. bUt it was worth it because I gained a better understanding of React, I'm still in the begining stages but better than what I used to be.
+
+**_thoughts_** I hoped to do more today but... life wasn't cooperating. too much tasks and deadlines i had to meet. But I will get better with time. Besides teh react course took more than 4 hours...
