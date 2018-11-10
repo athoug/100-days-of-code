@@ -567,3 +567,8 @@ I'm also half way therough [the React Crash Course](https://www.youtube.com/watc
 Finaly completed [the React Crash Course](https://www.youtube.com/watch?v=Ke90Tje7VS0) on youtybe. It took so long especially me taking notes after each section and working my way through the porject and experamenting. bUt it was worth it because I gained a better understanding of React, I'm still in the begining stages but better than what I used to be.
 
 **_thoughts_** I hoped to do more today but... life wasn't cooperating. too much tasks and deadlines i had to meet. But I will get better with time. Besides teh react course took more than 4 hours...
+
+### R1D76: November 10 2018
+Today was a small win. I practiced a bit on CSS variables. 
+
+**_thoughts_** I've been a bit drained this week. and tomorrow I'm traviling. I just hope I can figure out how I can log some coding hours
