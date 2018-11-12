@@ -572,3 +572,10 @@ Finaly completed [the React Crash Course](https://www.youtube.com/watch?v=Ke90Tj
 Today was a small win. I practiced a bit on CSS variables. 
 
 **_thoughts_** I've been a bit drained this week. and tomorrow I'm traviling. I just hope I can figure out how I can log some coding hours
+
+### R1D77: November 11 2018
+Today was a small win. I am going through the ES6 Course covered the `let` and `const`
+
+### R1D78: November 12 2018
+Another small win. I am going through the ES6 Course covered arrow functions
+
