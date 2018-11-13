@@ -579,3 +579,5 @@ Today was a small win. I am going through the ES6 Course covered the `let` and `
 ### R1D78: November 12 2018
 Another small win. I am going through the ES6 Course covered arrow functions
 
+### R1D79: November 13 2018
+It's all about small wins this week. I am going through the ES6 Course covered and completed the arrow function part
