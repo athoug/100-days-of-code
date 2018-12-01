@@ -1,10 +1,9 @@
 # #100DaysOfCode Log - Round 1 - [Athoug Alsoughayer]
 
-The log of my #100DaysOfCode challenge. Started on [November 22, Thursday, 2018].
+The log of my #100DaysOfCode challenge. Started on [December 1, Thursday, 2018].
 
 ## Log
 
-### R1D1: November 22 Thursday
+### R1D1: December 1 Thursday
 
-I had to re-start my 100 days challenge since I missed a week. This time it's more about consistincy than perfection.
-Today I went throught [Wes Bos's commanline Power User Course](https://commandlinepoweruser.com/) and read a couple of posts on the commandline. It was nice practice not to mention that my terminal looks cool now :)
+For the first day, I wanted a bit of refresher on a couple of topics to get on and start coding again. Since I'll be focusing on Front-end development. I started with a HTML refresher. I used a video tutoorial by freecodecamp called [Learn HTML5](https://www.youtube.com/watch?v=DPnqb74Smug) To be hinest I wasn't suspecting to learn new info, but I did such as the `mark` tag what adds highlight to your text, the `pre` tag that ads the format you make to your content such as indentation also the `q` tag that gives quote to your text. All in all I believe I covered what I need in regards to HTML5
