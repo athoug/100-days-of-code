@@ -15,4 +15,5 @@ Today is CSS revision day. So these three days will be all about revision before
 ### R1D3: December 3 Monday
 
 Today is JS revision day. As I've said I have a couple of things to touch on and today was JS day. I went over the course [Javascript Fundamentals](https://www.youtube.com/watch?v=vEROU2XtPR8). Also, I went over a video that discusses GraphQL [What is GraphQL](https://www.youtube.com/watch?v=7giZGFDGnkc)
+
 _thoughts_ Tomorrow is the day we get started with a Wes Bos course. I'll start with Reatc!
