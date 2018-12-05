@@ -18,6 +18,10 @@ Today is JS revision day. As I've said I have a couple of things to touch on and
 
 _thoughts_ Tomorrow is the day we get started with a Wes Bos course. I'll start with Reatc!
 
-### R1D4: December 4 Tusday
+### R1D4: December 4 Tuseday
 
 Today is quite nice! I finally started the Wes Bos course 'React for Begginers' and also acompanying it with the 'React for visial Learners' blog. So off to a nice start. Also went over the project 'Creating a bookmark using JS' and that was a lovely learning experience that covered `localStorage` so nice day with JS 
+
+### R1D5: December 5 Wednesday
+
+We're starting to touch the surface of React! Okay covered three main topic from Wes's course which are `JSX`, importing CSS, and the overall layout of a reach app. So far so good. I also finished up chapter 2 of the React for visual learnins, and concluded te day with a filtering challenge using pure vanilla JS.
