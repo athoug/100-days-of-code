@@ -30,8 +30,8 @@ We're starting to touch the surface of React! Okay covered three main topic from
 
 React is slowly making sence and to be honest Wes is a great instructor!  okay so topday I couvered `props` in react apps and learned that you can pass other than just strings. Also learned about the diffrence between statfull and statless compnenets, and mos importantly I learned about `routes` in react. I also went over chapter 3 of the ['Raect for Visual Learners'](https://medium.com/coding-artist/react-js-for-the-visual-learner-chapter-3-building-our-houses-295c43304b18) course and manages to do two pens. 
 
-
 [First react component](https://codepen.io/athoug/pen/KrjJqb)
+
 [Kowala head react component](https://codepen.io/athoug/pen/PxrVxa)
 
 I also went over teh vanilla Javascript tutorials this project was about weight conversions.
