@@ -35,3 +35,11 @@ React is slowly making sence and to be honest Wes is a great instructor!  okay s
 [Kowala head react component](https://codepen.io/athoug/pen/PxrVxa)
 
 I also went over teh vanilla Javascript tutorials this project was about weight conversions.
+
+### R1D7: December 7 Friday
+
+Another day anotehr dab at Rect. Today was a nice learning experience. I learned about helper functions and importing and exporting functions. I also learned about how events are handled in react anf binding `this` (with the diffrnet bind approaches) I also learned about refrnecing elements in react and using them. Not to mention how you inheart from the router it's methods [if the componenet is imported there] and having access to the `history` prop. I alo went over chapter 4 of the ['React for visual Learners'](https://medium.com/coding-artist/react-js-for-the-visual-learner-chapter-4-our-first-village-8b44427d4762) course. 
+
+[Componenet hiarchy in react pen](https://codepen.io/athoug/pen/vQoMdo)
+
+finally another vanilla JS course and this time covers the DOM. The interesting bit is learning the diffrence between `textContent` and `innerText` one ignores style rules while the other doesn't
