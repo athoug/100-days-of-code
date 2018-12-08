@@ -43,3 +43,7 @@ Another day anotehr dab at Rect. Today was a nice learning experience. I learned
 [Componenet hiarchy in react pen](https://codepen.io/athoug/pen/vQoMdo)
 
 finally another vanilla JS course and this time covers the DOM. The interesting bit is learning the diffrence between `textContent` and `innerText` one ignores style rules while the other doesn't
+
+### R1D8: December 8 Saturday
+
+Today is a slow day, becaue if I learned anything from the first round before this is not to overwhelm myself which in turn causes me to burnout so went over the React course and coverd teh concept of states. I do believe I got a grasp on it but I think I'll go over it again tomorrow since it's one of teh basics. But all in all a nie day
