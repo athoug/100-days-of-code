@@ -47,3 +47,9 @@ finally another vanilla JS course and this time covers the DOM. The interesting 
 ### R1D8: December 8 Saturday
 
 Today is a slow day, becaue if I learned anything from the first round before this is not to overwhelm myself which in turn causes me to burnout so went over the React course and coverd teh concept of states. I do believe I got a grasp on it but I think I'll go over it again tomorrow since it's one of teh basics. But all in all a nie day
+
+### R1D9: December 9 Sunday
+
+Today covered or rather revisited the state topic in the Wes Bos couse 'React For Begginers' and understood how it is the single source of truth [data container] in a react application. understood how to pass it and it's updateing functions into othe components [using props] also how to initialize and update states. Also covered how to render a list of components in JSX. Then i moved on to the 'React for Visual Learners' course and only covered props.
+
+I also continued with the [Vanilla JS Series](https://www.youtube.com/watch?v=wK2cBMcDTss&index=7&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX) and today was more DOM elements. Selecting using parent, child, siblings properties, and also covered creating elements from the DOM 
