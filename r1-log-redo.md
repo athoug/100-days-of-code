@@ -53,3 +53,9 @@ Today is a slow day, becaue if I learned anything from the first round before th
 Today covered or rather revisited the state topic in the Wes Bos couse 'React For Begginers' and understood how it is the single source of truth [data container] in a react application. understood how to pass it and it's updateing functions into othe components [using props] also how to initialize and update states. Also covered how to render a list of components in JSX. Then i moved on to the 'React for Visual Learners' course and only covered props.
 
 I also continued with the [Vanilla JS Series](https://www.youtube.com/watch?v=wK2cBMcDTss&index=7&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX) and today was more DOM elements. Selecting using parent, child, siblings properties, and also covered creating elements from the DOM 
+
+### R1D10: December 10 Monday
+
+Today started off with JS DOM it wa snice exploring the diffrent event objects ofered. of course we coupled events with event handlers. Also worked on React in Wes's course. It's still on states and updating them. I do feel i'm getting better but I think I think I need to revisit todays class tomorrow with the intro to firebase. Also covered the state topic in 'React for Visual Learners' here's [switcjing props with state](https://codepen.io/athoug/pen/xmxyVy)
+
+All in all a good day :)
