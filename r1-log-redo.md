@@ -59,3 +59,7 @@ I also continued with the [Vanilla JS Series](https://www.youtube.com/watch?v=wK
 Today started off with JS DOM it wa snice exploring the diffrent event objects ofered. of course we coupled events with event handlers. Also worked on React in Wes's course. It's still on states and updating them. I do feel i'm getting better but I think I think I need to revisit todays class tomorrow with the intro to firebase. Also covered the state topic in 'React for Visual Learners' here's [switcjing props with state](https://codepen.io/athoug/pen/xmxyVy)
 
 All in all a good day :)
+
+### R1D11: December 11 Tuesday
+
+I won't lie, today was a tough one. It started off simple with a DOM tutorial that covered, adding items to a list, deleting items from a list, and filtering a list. Then the hard part started I wentover Wes's course and revisited the state handeling and went throught hte firebase conept. and that's when things got tough. It seems really cool! I just have to read through more material on firebase and practice a bit more. [That will be the main focus of tomorrow]. I also went over event handeling in the 'React for Visual Learners' course and [here's the pen](https://codepen.io/athoug/pen/MZYPap?editors=1010) that holds todays practice/ 
