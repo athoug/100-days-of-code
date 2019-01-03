@@ -9,5 +9,8 @@ I have a couple of courses to go through but this will be the year of front-end 
 I'm going through the Wes Bos course 'React for Beginners' so far we covered the tooling, what components are and created 
 my first component 
 
-### R1D2: January 2 Tuesday
+### R1D2: January 2 Wednesday
 We continue the course and covered this time JSX and how to use it, importing CSS and laying out the appliaction.
+
+### R1D3: January 3 Thursday
+Still on the course coviring React. Today's topics includes `props` how we pass data between diffrent compponents and that is you want to pass anything other than a string, wrap it in a set of `{ }`. Also we covered statless components or functional components basically if a component doesn't need it's own state then it's best it becomes a functional components [function based]. And finally covered routing and we used react router. It's basically what to render to the screen based on the path/url of the application.   
