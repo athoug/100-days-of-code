@@ -26,3 +26,7 @@ We're starting to get to the nitty and gretty since we introduced firebase. okay
 
 ### R1D7: January 7 Monday
 Today was a tough one. Went over persisting data using `localStorage` covered the key value pair of it and how to convert an object to a string and vic verca [using the JSON object] `JSON.parse(string)` and `JSON.strigify(object)` also covered another life cycle event `componentDidUpdate` and how to change local storage there. also how to re-establish it when mounting the app. Then we moved on to bi-directional data where we pass in data from the app to it's component and how in forms you need to have a form handler that is conected to the state in order to actually display the changes. Covered CRUD and both updating and deleting items or rather data from the state. wooh that was a lot!
+
+### R1D8: January 8 Tuesday
+You can never go wrong with animation! Today was super fun worked on animating React components, also on validaing `props` uisng the `prop-types` package. What i undestood today... I now know how to work with react!
+_thought_ super happy :)
