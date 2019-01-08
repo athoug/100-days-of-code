@@ -29,4 +29,5 @@ Today was a tough one. Went over persisting data using `localStorage` covered th
 
 ### R1D8: January 8 Tuesday
 You can never go wrong with animation! Today was super fun worked on animating React components, also on validaing `props` uisng the `prop-types` package. What i undestood today... I now know how to work with react!
+
 _thought_ super happy :)
