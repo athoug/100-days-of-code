@@ -34,3 +34,6 @@ _thought_ super happy :)
 
 ### R1D9: January 9 Wednesday
 It was all about Authentication today. I won't lie it was a tough one and definatly one that required re-visiting but I'm glad I tackled it I understood the jist of it from API tokens, secrete, and checking the user and rendering based on that but I think I need to still go over it from the database perspective. Also finally built the app for production!
+
+### R1D10: January 10 Thursday
+Today was short and a couple of issies depolying the app :(
