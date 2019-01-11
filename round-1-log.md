@@ -37,3 +37,7 @@ It was all about Authentication today. I won't lie it was a tough one and defina
 
 ### R1D10: January 10 Thursday
 Today was short and a couple of issies depolying the app :(
+
+### R1D11: January 11 Friday
+I completed the Wes Bos course 'React for Begginers'!! I can officialy say I know React :) so so happy. Now for today I started with Wes's `Flexbox` course a good start. I'm also going over 'React for Visual Learners' to hone in React and become a better develper in the time I'm learning Flex. Also my friand and I are working on a data completition which will be fun.
+
