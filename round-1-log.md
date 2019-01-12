@@ -41,3 +41,7 @@ Today was short and a couple of issies depolying the app :(
 ### R1D11: January 11 Friday
 I completed the Wes Bos course 'React for Begginers'!! I can officialy say I know React :) so so happy. Now for today I started with Wes's `Flexbox` course a good start. I'm also going over 'React for Visual Learners' to hone in React and become a better develper in the time I'm learning Flex. Also my friand and I are working on a data completition which will be fun.
 
+### R1D12: January 12 Saturday
+Flex is making more sence now. So glad that I'm following along teh course. I also wen't over chapter 2 of the 'React for visual learners' book.
+
+_Note to self_ slow and steady wins teh race.
