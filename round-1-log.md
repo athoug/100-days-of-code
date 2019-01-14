@@ -45,3 +45,8 @@ I completed the Wes Bos course 'React for Begginers'!! I can officialy say I kno
 Flex is making more sence now. So glad that I'm following along teh course. I also wen't over chapter 2 of the 'React for visual learners' book.
 
 _Note to self_ slow and steady wins teh race.
+
+### R1D13: January 14 Monday
+We're back at it! Covered all the basics of Flexbox. And started chapter 3 of the 'React for Visual Learners' course. 
+
+_Note to self_ we got this mate!
