@@ -50,3 +50,6 @@ _Note to self_ slow and steady wins teh race.
 We're back at it! Covered all the basics of Flexbox. And started chapter 3 of the 'React for Visual Learners' course. 
 
 _Note to self_ we got this mate!
+
+### R1D14: January 16 Wednesday
+Completed the Flexbox course!
