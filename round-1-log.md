@@ -53,3 +53,8 @@ _Note to self_ we got this mate!
 
 ### R1D14: January 16 Wednesday
 Completed the Flexbox course!
+
+### R1D15: January 17 Thursday
+So we started two React Related courses. 'React Complete Guide' and 'Learn Redux' by Wes Bos. 
+
+_Note to Self_ Don't get overwhelmed it's all okay. 
