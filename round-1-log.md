@@ -58,3 +58,8 @@ Completed the Flexbox course!
 So we started two React Related courses. 'React Complete Guide' and 'Learn Redux' by Wes Bos. 
 
 _Note to Self_ Don't get overwhelmed it's all okay. 
+
+### R1D16: January 20 Sunday
+still on the two courses on React and Redux. In the react course wen't over a couple of refresher on next generation JS and in the redux course created ourt redux store, our actions and reducers.
+
+_Note to Self_ Think of actions as events and reducers as event handlers 
