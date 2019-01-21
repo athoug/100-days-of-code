@@ -63,3 +63,7 @@ _Note to Self_ Don't get overwhelmed it's all okay.
 still on the two courses on React and Redux. In the react course wen't over a couple of refresher on next generation JS and in the redux course created ourt redux store, our actions and reducers.
 
 _Note to Self_ Think of actions as events and reducers as event handlers 
+
+### R1D17: January 21 Monday
+still on the two courses on React covered quite a few in the redux course. Went over dispatching [which is basicaly firing events] of the actions and connecting our states and actions to our props, also covered teh first reducer example and adding some animation to it. For the React course, today I just practiced a bit of next gen JS jsut to hone in the concepts.
+
