@@ -39,7 +39,12 @@ Today was a bit overwhelming but I managed to go through a kata in codewars
 * went through chapter 5 of the html and css book
 * solved another kata on code wars
 
-### R1D8: February 4 Sunday
+### R1D8: February 4 Monday
 * React and covered Displaying lists
 * went through chapter 6 of the html and css book
 * solved another kata on code wars
+
+### R1D9: February 5 Tuesday
+* React and covered styling components
+* went through chapter 7 of the html and css book and worked on forms
+* solved another kata on code wars that covered autocomplete
