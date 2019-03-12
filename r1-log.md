@@ -21,3 +21,9 @@ Also went over "gwtting to know HTML" in [shay Howe's](https://learn.shayhowe.co
 
 Went over the "write faster code" section of the Udacity curriculim.
 Also worked on the "Build a Portdolio" project here's a link to the repo [Udacity-Project-Portfolio](https://github.com/athoug/Udacity-Project-Portfolio)
+
+### R1D4: March 12 Tuesday
+
+It's all about responsive design today. So I went over two modules in the front-end degree that discussed "why responsivness" and "starting small". I also got my code review for the project and never have I felt this happy! The comments were amazing and so encouraging.
+I also went over the "getting to know CSS" chapter of [shay Howe's](https://learn.shayhowe.com/) website. 
+I just need to remind myself slow and steady wins be pacient. 
