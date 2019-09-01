@@ -11,3 +11,12 @@ In this journy, I aim to become a frontend developer. I've decided to start with
 * [JS Clock](https://codepen.io/athoug/pen/KKPvyBw)
 
 In addition, I'm going over [Hackeranks 10 day javascript challenge](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=10-days-of-javascript).
+
+
+### R1D1: March 09 Saturday
+
+Today's practice is day 3 of  Wes Bos's  [Javascript30](https://javascript30.com/) course. where we practiced working with css variables and changing them dynamicly through javascript.
+
+* [CSS Variables](https://codepen.io/athoug/pen/LYPjgyY)
+
+In addition, practiced on [Hackeranks 10 day javascript challenge](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=10-days-of-javascript). Where this day was all about data types.
