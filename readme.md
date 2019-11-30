@@ -29,6 +29,6 @@ I plan on working throw 3 different sources.
 Will start it off, with Wes's courses first and then move on. 
 first class will tackle is:
 
-[Beginner Javascript](./content/Beginner%20Javascript)
+[Beginner Javascript](https://github.com/athoug/100-days-of-code/tree/master/Content/Beginner%20Javascript)
 
 
