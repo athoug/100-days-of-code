@@ -29,6 +29,6 @@ I plan on working throw 3 different sources.
 Will start it off, with Wes's courses first and then move on. 
 first class will tackle is:
 
-[Beginner Javascript]()
+[Beginner Javascript](./content/Beginner%20Javascript)
 
 
