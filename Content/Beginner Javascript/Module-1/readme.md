@@ -54,7 +54,7 @@ _Naming Conventions_
 There are a couple of conventions when it comes to giving your variables names.
 
 - They shouldn't start with a capital unless they are a class
-- should start with a letter [a-z] or \\\\_ or \$
+- should start with a letter [a-z] or _ or $
 - if a variable is made up of two words, use camel-casing `iLovePizza` or upper camel-casing `ILovePizza` if using a class
 
 ## 4. Code Quality and Tooling
