@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="../beginner-javascript-master/base.css">
+  <title>Variables</title>
+</head>
+<body>
+  <script>
+    var first = 'Athoug'; // variable declaration statement - function scoped
+    let age = 300; // black scoped
+    const cool = true; // black scoped
+    console.log(first); // function call statement
+
+    if(age > 10) {
+      console.log('You are old');
+    }
+
+    // Difference between the keyword decelerations [ver, let , const]
+    // var, and let -> can be updated the value
+    // const -> doesn't update the value
+    // cool = false; // -> generates an error
+
+    // Wes's rules to when to use what
+    // - use const by default
+    // - if you need to change a value of a variable , use let
+
+    // Naming convention
+    // they shouldn't start with a capital unless they are a class
+    // should start with a letter [a-z] or _ or $
+    // if a variable is made up of two words, use
+    // -camel-casing iLovePizza or  NOTE: most developer use this on
+    // -upper camel-casing ILovePizza or NOTE: if using a class
+    // snake case this_is_snake_case or NOTE: developers from php use this case
+    // kebab case this-is-kebab-case -< NOTE: not allowed in JS
+
+
+  </script>
+</body>
+</html>
