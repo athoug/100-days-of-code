@@ -6,4 +6,4 @@ The log of my #100DaysOfCode challenge. Started on [December 1, Sunday, 2019].
 
 ### R1D1: December 1 Sunday
 
-Started the Beginner JS course. Started with module 1 [1-5]. A detailed of what I worked on can be found [here]()
+Started the Beginner JS course. Started with module 1 [1-5]. A detailed of what I worked on can be found [here](https://github.com/athoug/100-days-of-code/tree/master/Content/Beginner%20Javascript/Module-1)
