@@ -101,7 +101,7 @@ document.write(html);
 // --------------------------
 // There is only one type of number in javascript which in number
 // there is a handy keyword that can help us identify the type of variable
-// teh `typeof` lets test it out
+// the `typeof` lets test it out
 const age = 100;
 console.log(typeof age); // output -> number
 console.log(typeof name); // output -> string
