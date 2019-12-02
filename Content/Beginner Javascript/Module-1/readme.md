@@ -93,7 +93,7 @@ there are three different ways to create strings in javascript:
 
 - double quotes -> `" "`. Example: `const name = "Athoug";`
 - single quotes -> `' '`. Example: `const middle = 'Shukri';`
-- back-ticks or template strings -> `` ` ` ``. `const last = `` `Alsoughayer`; ``
+- back-ticks or template strings -> `` ` ` ``. `const last = ```Alsoughayer`;``
 
 #### Single and Double Quotes Dilemma
 
@@ -101,14 +101,22 @@ there are three different ways to create strings in javascript:
 
 Sometimes single quotes creates problems if you want to use apostrophe because
 it thinks that you ended it example
+
 `const sentience 'she's so cool'; // -> error`
+
 to remedy it you can use escape character the backslash `\`
+
 `const sentience = 'she\'s so cool';`
+
 same thing goes with double, say you want to use quotation marks
 it breaks the string thinking it ended and causing an error for the rest of the characters
+
 `const note = "she thinks she's "cool""; // -> error`
+
 same way to fix it is to use escape characters
+
 `const note = "she thinks she's \"cool\"";`
+
 but these issues don't arise in back-tick because well who would want to use it in  a string
 so there is a great argument made on using back-ticks
 
@@ -217,6 +225,7 @@ The operations available for us are:
 The only thing to keep in mind is when doing these operations on different types
 example adding a number with a string the outcome won't be as suspected because
 js does automatic type coercion (change type from one to another)
+
 `console.log(1 + '1'); // output -> 11`
 
 #### Helper Functions
@@ -231,8 +240,11 @@ console.log(Math.random()); // will give you a random number between 0 and 1
 ```
 
 sometimes when adding floats in js it doesn't give you an accurate result
+
 `console.log(0.1 + 0.2); // output -> 0.30000000000000004`
+
 this is a trick wes showed to show the reason behind the odd addition
+
 `window.location =```https://${0.1 + 0.2}.com```;`
 
 so when wanting to work with money, don't use decimals!!!
