@@ -14,7 +14,7 @@ Resources used for the CSS image
 * [JS timing functions](https://www.w3schools.com/js/js_timing.asp)
 * [createElement](https://www.w3schools.com/jsref/met_document_createelement.asp)
 
-### R1D2: December 2 Sunday
+### R1D2: December 2 Monday
 
 Contined today the Beginner JS course, with module 1 [6-8]. A detailed of what I worked on can be found [here](https://github.com/athoug/100-days-of-code/tree/master/Content/Beginner%20Javascript/Module-1). It was quite interesting because I learned why programing languages don't do accurate decimal addition
 
