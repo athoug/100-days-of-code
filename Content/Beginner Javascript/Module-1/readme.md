@@ -93,7 +93,7 @@ there are three different ways to create strings in javascript:
 
 - double quotes -> `" "`. Example: `const name = "Athoug";`
 - single quotes -> `' '`. Example: `const middle = 'Shukri';`
-- back-ticks or template strings -> `` ` ` ``. `const last = ```Alsoughayer` ;``
+- back-ticks or template strings -> `` ` ` ``. `const last = ```Alsoughayer` ;`
 
 #### Single and Double Quotes Dilemma
 
